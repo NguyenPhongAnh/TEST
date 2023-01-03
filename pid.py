@@ -5,7 +5,6 @@ import serial
 import numpy as np
 import math
 from math import *
-##test github
 
 board = serial.Serial('COM5',9600)
 time.sleep(1)
